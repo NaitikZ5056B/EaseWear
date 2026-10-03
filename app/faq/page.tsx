@@ -63,7 +63,7 @@ export default function FAQPage() {
     },
     {
       question: "How can I contact EaseWear?",
-      answer: "You can reach us via the Contact form on our website, email us at support@easewear.in, or use the WhatsApp chat button available in the bottom corner of your screen."
+      answer: "You can reach us via the Contact form on our website, email us at Easewear.pvt@gma8l.com, or use the WhatsApp chat button available in the bottom corner of your screen."
     }
   ];
 

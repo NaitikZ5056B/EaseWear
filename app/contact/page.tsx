@@ -22,7 +22,7 @@ export default function ContactPage() {
               </div>
               <div>
                 <h3 className="font-semibold">Email Us</h3>
-                <p className="text-sm text-muted-foreground">support@easewear.in</p>
+                <p className="text-sm text-muted-foreground">Easewear.pvt@gma8l.com</p>
               </div>
             </div>
             
@@ -32,7 +32,7 @@ export default function ContactPage() {
               </div>
               <div>
                 <h3 className="font-semibold">Call Us</h3>
-                <p className="text-sm text-muted-foreground">+91 [PLACEHOLDER - confirm number]</p>
+                <p className="text-sm text-muted-foreground">+91 8974498177</p>
               </div>
             </div>
 
@@ -42,7 +42,7 @@ export default function ContactPage() {
               </div>
               <div>
                 <h3 className="font-semibold">WhatsApp</h3>
-                <p className="text-sm text-muted-foreground">+91 [PLACEHOLDER - confirm number]</p>
+                <p className="text-sm text-muted-foreground">+91 8974498177</p>
               </div>
             </div>
 
@@ -53,7 +53,7 @@ export default function ContactPage() {
               <div>
                 <h3 className="font-semibold">Headquarters</h3>
                 <p className="text-sm text-muted-foreground">
-                  [PLACEHOLDER - Address]<br />
+                  Sunbeam Sucity<br />
                   India
                 </p>
               </div>
